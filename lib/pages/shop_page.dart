@@ -101,7 +101,7 @@ class _ShopPageState extends State<ShopPage> {
                     color: Colors.lightBlue,
                   ),
                   Text(
-                    "GTA",
+                    "EA FC24",
                     style: TextStyle(color: Colors.lightBlue, fontSize: 30),
                   )
                 ],
