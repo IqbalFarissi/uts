@@ -105,7 +105,7 @@ class _IntroPageState extends State<IntroPage> {
               child: ListTile(
                 leading: Icon(Icons.logout, color: Colors.lightBlue[400]),
                 title: Text(
-                  'Logout',
+                  'Log out',
                   style: TextStyle(color: Colors.lightBlue[400]),
                 ),
               ),
