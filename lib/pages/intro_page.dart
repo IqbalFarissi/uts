@@ -93,7 +93,7 @@ class _IntroPageState extends State<IntroPage> {
                   child: ListTile(
                     leading: Icon(Icons.info, color: Colors.lightBlue[400]),
                     title: Text(
-                      'Tentang Kami',
+                      'About',
                       style: TextStyle(color: Colors.lightBlue[400]),
                     ),
                   ),
