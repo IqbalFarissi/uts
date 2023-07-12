@@ -48,7 +48,7 @@ class LoginPage extends StatelessWidget {
               // username textfield
               MyTextField(
                 controller: usernameController,
-                hintText: 'Username',
+                hintText: 'Masukan Username',
                 obscureText: false,
               ),
 
@@ -57,7 +57,7 @@ class LoginPage extends StatelessWidget {
               //password textfield
               MyTextField(
                 controller: passwordController,
-                hintText: 'Password',
+                hintText: 'Masukan Password',
                 obscureText: true,
               ),
 
